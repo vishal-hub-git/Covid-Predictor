@@ -8,8 +8,7 @@ Implementation: We have implemented and deployed it as a website.
 Technology Stack: Model Building - Logistic regression.
 Here is a small demo of our project.
 
-![Capture11]
-(https://user-images.githubusercontent.com/57080465/125189487-f7a7d100-e255-11eb-81dc-e884318f2190.PNG)
+![Capture11](https://user-images.githubusercontent.com/57080465/125189487-f7a7d100-e255-11eb-81dc-e884318f2190.PNG)
 ![Capture12](https://user-images.githubusercontent.com/57080465/125189490-fa0a2b00-e255-11eb-9010-884a99fcbd11.PNG)
 ![Capture21](https://user-images.githubusercontent.com/57080465/125189491-faa2c180-e255-11eb-9102-1391a6b0dd54.PNG)
 ![Capture22](https://user-images.githubusercontent.com/57080465/125189493-fb3b5800-e255-11eb-8a37-0294adee6420.PNG)
