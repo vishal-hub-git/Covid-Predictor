@@ -6,7 +6,9 @@ Usability: It is a self-testing app where the people can test for themselves whi
 avoid contact with others.
 Implementation: We have implemented and deployed it as a website.
 Technology Stack: Model Building - Logistic regression.
-Here is a small demo of our project.
+This link contains the demo of our project--> https://drive.google.com/file/d/174zRSalwpdETyV8EH1JzUV8xbuxa5qLf/view?usp=sharing
+
+Here are some of the screenshots of the project!!
 
 ![Capture11](https://user-images.githubusercontent.com/57080465/125189487-f7a7d100-e255-11eb-81dc-e884318f2190.PNG)
 ![Capture12](https://user-images.githubusercontent.com/57080465/125189490-fa0a2b00-e255-11eb-9010-884a99fcbd11.PNG)
