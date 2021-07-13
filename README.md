@@ -13,7 +13,11 @@ Here is the deployed link of the project --> https://covid-prediction-app11.hero
 
 Here are some of the screenshots of the project!!
 
-![Capture11](https://user-images.githubusercontent.com/57080465/125189487-f7a7d100-e255-11eb-81dc-e884318f2190.PNG)
-![Capture12](https://user-images.githubusercontent.com/57080465/125189490-fa0a2b00-e255-11eb-9010-884a99fcbd11.PNG)
-![Capture21](https://user-images.githubusercontent.com/57080465/125189491-faa2c180-e255-11eb-9102-1391a6b0dd54.PNG)
-![Capture22](https://user-images.githubusercontent.com/57080465/125189493-fb3b5800-e255-11eb-8a37-0294adee6420.PNG)
+![Capture21](https://user-images.githubusercontent.com/57080465/125388695-98fd6700-e3bd-11eb-94ed-16b5f2f0bd77.PNG)
+![Capture22](https://user-images.githubusercontent.com/57080465/125388705-9dc21b00-e3bd-11eb-87a0-73147ff179da.PNG)
+![Capture31](https://user-images.githubusercontent.com/57080465/125388736-aa467380-e3bd-11eb-95fc-4ab4384a4dd6.PNG)
+![Capture32](https://user-images.githubusercontent.com/57080465/125388753-b16d8180-e3bd-11eb-93de-ff1a86b4b79e.PNG)
+![Capture23](https://user-images.githubusercontent.com/57080465/125388778-c0543400-e3bd-11eb-9df4-f3224f41e053.PNG)
+
+
+
