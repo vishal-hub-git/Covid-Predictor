@@ -14,6 +14,7 @@ Here is the deployed link of the project --> https://covid-prediction-app11.hero
 Here are some of the screenshots of the project!!
 
 ![Capture21](https://user-images.githubusercontent.com/57080465/125390506-a1a36c80-e3c0-11eb-8e8b-361ea062f789.PNG)
+
 ![Capture22](https://user-images.githubusercontent.com/57080465/125390529-a9631100-e3c0-11eb-81c7-06434623831f.PNG)
 
 
