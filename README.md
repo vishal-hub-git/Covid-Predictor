@@ -19,7 +19,5 @@ Here are some of the screenshots of the project!!
 ![Capture31](https://user-images.githubusercontent.com/57080465/125388736-aa467380-e3bd-11eb-95fc-4ab4384a4dd6.PNG)
 ![Capture32](https://user-images.githubusercontent.com/57080465/125388753-b16d8180-e3bd-11eb-93de-ff1a86b4b79e.PNG)
 
-![Capture23](https://user-images.githubusercontent.com/57080465/125388778-c0543400-e3bd-11eb-9df4-f3224f41e053.PNG)
-
 
 
