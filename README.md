@@ -7,11 +7,11 @@ Tools: Google Collab (Python), Python Flask Server (HTML, CSS, JavaScript)
 Usability: It is a self-testing app where the people can test for themselves which helps them to 
 avoid contact with others.
 
-Implementation: We have implemented and deployed it as a website.
+Implementation: We have implemented and deployed it as a website using flask server and docker enviroinment.
 
 Technology Stack: Model Building - Logistic regression.
 
-This link contains the demo video of the project--> https://drive.google.com/file/d/174zRSalwpdETyV8EH1JzUV8xbuxa5qLf/view?usp=sharing
+This link contains the demo video of the project--> https://drive.google.com/file/d/1sEPnVXsf6x56U0lzMim_vnbk-4zamjgA/view?usp=sharing
 
 Here is the deployed link of the project --> https://covidpredictor.iqubekct.ac.in
 
