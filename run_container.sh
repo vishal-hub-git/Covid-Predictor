@@ -1,0 +1,1 @@
+docker run -d -p 14000:5000 --name pred-covid-iqube-container --env-file production.env pred-covid-iqube

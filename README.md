@@ -13,7 +13,7 @@ Technology Stack: Model Building - Logistic regression.
 
 This link contains the demo video of the project--> https://drive.google.com/file/d/174zRSalwpdETyV8EH1JzUV8xbuxa5qLf/view?usp=sharing
 
-Here is the deployed link of the project --> https://covid-prediction-app11.herokuapp.com
+Here is the deployed link of the project --> https://covidpredictor.iqubekct.ac.in
 
 
 

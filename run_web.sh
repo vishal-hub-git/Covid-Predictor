@@ -1,0 +1,1 @@
+gunicorn --reload --chdir app app:app -b 0.0.0.0:5000 --timeout=600 --workers=5 --threads=3 --worker-connections=1000 --worker-class=gevent --log-level debug

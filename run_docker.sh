@@ -1,0 +1,1 @@
+sh build_image.sh && sh run_container.sh
