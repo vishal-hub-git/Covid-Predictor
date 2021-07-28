@@ -1,0 +1,97 @@
+<html>
+    <head>
+        <title>Covid Predictor</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <style>
+        input[type=text],input[type=password],input[type=email],input[type=tel]{
+    width: 35%;
+    padding: 12px 27px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #cacaca;
+    color: rgb(82, 81, 81);
+  }
+  h1 {
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+    font-weight: 100;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    font-family: 'Roboto', sans-serif;
+  }
+  h2 {
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+    font-weight: 100;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    font-family: 'Roboto', sans-serif;
+  }
+  h5 {
+    font-size: 1em;
+    text-align: center;
+    color: rgb(236, 232, 11);
+    font-weight: 100;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    font-family: 'Roboto', sans-serif;
+  }
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: center;
+  }
+
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  input[type=button],button[type=submit]{
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: center;
+  }
+
+  input[type=button]:hover {
+    background-color: #45a049;
+  }
+  .breath_prob2{
+
+    </style>
+    </head>
+    <body background="https://www.emeraldgrouppublishing.com/sites/default/files/image/covid-cells.jpg">
+        <br>
+        <center><h1><b>Covid</b> Predictor</h1>
+            <form action="{{ url_for('predict_covid1')}}" method="post">
+            <input class="text" type="text" name="name1" placeholder="Enter your Name" id="name" required="">
+            <br><br><input class="text" type="text" name="age1" placeholder="Enter your Age" id="age" required="">
+                <br><br><input class="text" type="text" name="email1" placeholder="Enter your Email ID" id="email" required="">
+                <select name="breath_prob1" id="breath_prob2" class="breath_prob2">
+  <option value="yes">Yes</option>
+  <option value="no">No</option>
+                </select>
+		    <br><br><input class="text" type="text" name="breath_prob1" placeholder="Do you have a breathing problem?" id="breath_prob1" required="">
+			<br><br><input class="text" type="text" name="fever1" placeholder="Do you have fever?" id="fever1" required="">
+            <br><br><input class="text" type="text" name="drycough1" placeholder="Do you have dry cough?" id="drycough1" required="">
+			<br><br><input class="text" type="text" name="sorethroat1" placeholder="Do you have symptoms of sore throat?" id="sorethroat1" required="">
+            <br><br><input class="text" type="text" name="hyperTension1" placeholder="Do you have hypertension?" id="hyperTension1" required="">
+            <br><br><input class="text" type="text" name="abroadtravel1" placeholder="Have you travelled abroad recently?" id="abroadtravel1" required="">
+			<br><br><input class="text" type="text" name="contact1" placeholder="Have you been in contact with any covid patient recently?" id="contact1" required="">
+            <br><br><input class="text" type="text" name="largeGathering1" placeholder="Did you attend any large gatherings recently?" id="largeGathering1" required="">
+            <br><br><input class="text" type="text" name="publicExposedPlaces1" placeholder="Did you visit any public places recently?" id="publicExposedPlaces1" required="">
+            <br><br><input class="text" type="text" name="familyPublicPlaces1" placeholder="Did your family visit any public places recently?" id="familyPublicPlaces1" required="">
+                <br><br><button type="submit" id="sub">Predict</button>
+            </form>
+         </center>
+    </body>
+</html>
